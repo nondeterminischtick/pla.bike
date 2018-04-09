@@ -1,7 +1,8 @@
 #!/bin/bash
 #
-# Build and deploy blog
+# Build and deploy Hugo static site generator files in the public directory.
 #
+rm -rf public
 hugo
 git add --all
 git commit -m "Commit from $(hostname) at $(date)"
