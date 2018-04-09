@@ -1,0 +1,4 @@
+baseURL = "https://pla.bike/"
+languageCode = "en-us"
+title = "PLA Bicycle Log"
+theme = "ananke"
