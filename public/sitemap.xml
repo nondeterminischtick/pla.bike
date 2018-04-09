@@ -1,18 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://pla.bike/posts/20180408/</loc>
+    <lastmod>2018-04-09T11:31:23-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://pla.bike/</loc>
+    <lastmod>2018-04-09T11:31:23-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://pla.bike/posts/</loc>
+    <lastmod>2018-04-09T11:31:23-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/</loc>
     <priority>0</priority>
   </url>
   
