@@ -6,9 +6,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = ""
-enableRobotsTXT = true
-env = "production"
+HUGO_ENV = "production"
 
 [sitemap]
   changefreq = "monthly"
