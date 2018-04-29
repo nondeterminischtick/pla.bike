@@ -19,5 +19,5 @@ Paginate = 10
   youtube = "https://www.youtube.com/channel/UC5pKVW_GoO_5lHfxPIsCfFA"
   github = "https://github.com/pla1"
   background_color_class = "bg-black"
-  featured_image = "images/bicycle1440x642.jpg"
+  featured_image = "https://lh3.googleusercontent.com/jmag-Fg8sGWH7H876kOriI4my2GmkGYYyujXi90m4GcqoVNHWzHilx-HJ64haZ9EjeTgG9wVeEHaaUyHyDefookBsoRu4gkcNB2dekHIGD7hGO69y2HK7ZTRuVltW1FRzoJD8qnuN3o=w2400"
   recent_posts_number = 2
