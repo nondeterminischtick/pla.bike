@@ -6,10 +6,20 @@
     <description>Recent content in Posts on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Apr 2018 12:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 01 May 2018 18:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tuesday Commute</title>
+      <link>https://pla.bike/posts/20180501/</link>
+      <pubDate>Tue, 01 May 2018 18:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/posts/20180501/</guid>
+      <description>Tuesday&amp;rsquo;s commute had a big temperature swing. According to my Garmin 520 bicycle computer the minimum temperature was 39℉ and the maximum temperature was 82℉. That is a 43℉ swing.
+  </description>
+    </item>
     
     <item>
       <title>Ashley River</title>
