@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pla.bike/posts/20180624/</loc>
+    <lastmod>2018-06-24T22:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20180623/</loc>
     <lastmod>2018-06-23T11:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -359,14 +366,14 @@
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2018-06-23T11:00:00-04:00</lastmod>
+    <lastmod>2018-06-24T22:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2018-06-23T11:00:00-04:00</lastmod>
+    <lastmod>2018-06-24T22:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
