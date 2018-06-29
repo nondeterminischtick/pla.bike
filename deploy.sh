@@ -4,6 +4,7 @@
 #
 rm -rf public
 hugo
+git pull
 git add --all
 git commit -m "Commit from $(hostname) at $(date)"
 git push
