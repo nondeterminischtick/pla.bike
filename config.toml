@@ -6,8 +6,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
-enableRobotsTXT = true
-robotsdisallow = false
+HUGO_ENV = "production"
 
 [sitemap]
   changefreq = "monthly"
