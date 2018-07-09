@@ -2,6 +2,7 @@ baseURL = "https://pla.bike/"
 languageCode = "en-us"
 title = "PLA Cycling Log"
 theme = "gohugo-theme-ananke"
+noindex = false
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
