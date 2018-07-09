@@ -23,6 +23,4 @@ Paginate = 10
   recent_posts_number = 2
 
     noindex_kinds = [
-      "taxonomy",
-      "taxonomyTerm"
     ]
