@@ -6,6 +6,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
+enableRobotsTXT = true
 
 [sitemap]
   changefreq = "monthly"
