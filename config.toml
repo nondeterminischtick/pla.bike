@@ -6,7 +6,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
-HUGO_ENV = "production"
+
 
 [sitemap]
   changefreq = "monthly"
@@ -22,4 +22,4 @@ HUGO_ENV = "production"
   background_color_class = "bg-black"
   featured_image = "https://lh3.googleusercontent.com/jmag-Fg8sGWH7H876kOriI4my2GmkGYYyujXi90m4GcqoVNHWzHilx-HJ64haZ9EjeTgG9wVeEHaaUyHyDefookBsoRu4gkcNB2dekHIGD7hGO69y2HK7ZTRuVltW1FRzoJD8qnuN3o=w2400"
   recent_posts_number = 2
-removefromexternalsearch = false
+  env = "production"
