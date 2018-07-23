@@ -6,9 +6,19 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jul 2018 13:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Century</title>
+      <link>https://pla.bike/tags/century/</link>
+      <pubDate>Sun, 22 Jul 2018 13:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/century/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
