@@ -6,10 +6,20 @@
     <description>Recent content in Posts on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Aug 2018 23:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 22:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Round The Ville</title>
+      <link>https://pla.bike/posts/20180807/</link>
+      <pubDate>Tue, 07 Aug 2018 22:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/posts/20180807/</guid>
+      <description>A nice unremarkable ride around my town.
+ </description>
+    </item>
     
     <item>
       <title>Kingstree Century 💯</title>
