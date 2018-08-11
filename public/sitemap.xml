@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pla.bike/posts/20180811/</loc>
+    <lastmod>2018-08-11T11:20:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20180807/</loc>
     <lastmod>2018-08-07T22:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -513,7 +520,7 @@
   
   <url>
     <loc>https://pla.bike/tags/century/</loc>
-    <lastmod>2018-08-04T23:00:00-04:00</lastmod>
+    <lastmod>2018-08-11T11:20:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -534,14 +541,14 @@
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2018-08-07T22:00:00-04:00</lastmod>
+    <lastmod>2018-08-11T11:20:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2018-08-07T22:00:00-04:00</lastmod>
+    <lastmod>2018-08-11T11:20:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
