@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pla
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://pla.bike
+  * I am pla (https://keybase.io/pla) on keybase.
+  * I have a public key ASAhx1t2b16G7HRhRWkoqc-T8WSdYp7dKuq-qg-8nVMGKgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f9ad55ce526689da54f37722e91b6189b7e24a755c0fa2ded12a71cb5bb312e70a",
+      "host": "keybase.io",
+      "kid": "012021c75b766f5e86ec7461456928a9cf93f1649d629edd2aeabeaa0fbc9d53062a0a",
+      "uid": "9468c9dd1c0164dc0250eb86a1f05e19",
+      "username": "pla"
+    },
+    "merkle_root": {
+      "ctime": 1535277483,
+      "hash": "820a57749f89c1cc94fac90a4bbd4904bdb8e99efa4b2a25fce8c4b1a2c803e82a6e95fdc8a1593fbb81767f873684bcc3f85a75d3b5dc067b8202ae81a96c78",
+      "hash_meta": "79efe32ec2414266db183fe7610f48f3d838c62266e1e0cec9813311d898a368",
+      "seqno": 3517239
+    },
+    "service": {
+      "entropy": "dOALvk8dUvg0nCH5kiGiePaY",
+      "hostname": "pla.bike",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.6.0"
+  },
+  "ctime": 1535277584,
+  "expire_in": 504576000,
+  "prev": "b1011e7de9556f1ea671aa3f353971be32d2c8c4ba13ba006fd8eb42c1c5a88c",
+  "seqno": 103,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIcdbdm9ehux0YUVpKKnPk/FknWKe3SrqvqoPvJ1TBioKp3BheWxvYWTESpcCZ8QgsQEefelVbx6mcao/NTlxvjLSyMS6E7oAb9jrQsHFqIzEIKUwa08R42OGrgB0+TO2DMkA6vP7g+oEbxQlBNvYUJEwAgHCo3NpZ8RAY7xSgexSA7cz43O6wSojLZdPrjHQoWWynR8u3731WBPoYJq2nANAMHeSFYf/rpLbCnPA8PGIrdHqRnL3M6VUDahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHvvA0rdWfC/l3LMVzHXbjIVoLF/sSZccQCDkxcEwb8co3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pla
+
+==================================================================
