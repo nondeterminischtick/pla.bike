@@ -631,6 +631,13 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/tags/sensor/</loc>
+    <lastmod>2018-09-01T11:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/tags/</loc>
     <lastmod>2018-08-07T22:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
