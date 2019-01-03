@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pla.bike/posts/20190103/</loc>
+    <lastmod>2019-01-03T17:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20190101/</loc>
     <lastmod>2019-01-01T14:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -961,7 +968,7 @@
   
   <url>
     <loc>https://pla.bike/tags/commute/</loc>
-    <lastmod>2018-12-21T17:00:00-04:00</lastmod>
+    <lastmod>2019-01-03T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
@@ -982,14 +989,14 @@
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2019-01-01T14:30:00-04:00</lastmod>
+    <lastmod>2019-01-03T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2019-01-01T14:30:00-04:00</lastmod>
+    <lastmod>2019-01-03T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
