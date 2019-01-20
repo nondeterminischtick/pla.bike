@@ -6,10 +6,20 @@
     <description>Recent content on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 18 Jan 2019 16:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 17:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>I want my data</title>
+      <link>https://pla.bike/posts/20190120/</link>
+      <pubDate>Sun, 20 Jan 2019 17:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/posts/20190120/</guid>
+      <description>I checked my chain for wear with my Park Tool Chain Checker CC-3.2. It is past .75% wear. Time for a new one.
+How many miles do I have on this chain? Seems like a simple question. Unfortunately Garmin doesn&amp;rsquo;t provide a way to export my data. I signed-up with VeloViewer which is a 3rd party analysis website. The annual pro subscription is $13.40 USD. I&amp;rsquo;m impressed so far. They have some nice tools, charts, and most importantly ability to export all my activities.</description>
+    </item>
     
     <item>
       <title>Georgetown Century 💯</title>
