@@ -6,6 +6,8 @@ featured_image: '/images/bicycle1440x642.jpg'
 
 I love riding my bicycle. I commute to work sometimes, ride my bike to lunch, dinner, and take longer adventure rides on the weekend. https://pla.bike is where I log my cycling activities. Get out of your cars people!
 
+[Gear List](/about/gear/)
+
 _Patrick L Archibald (PLA)_
 
 <p style="font-size:3em">&nbsp;</p>
