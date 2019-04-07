@@ -82,3 +82,17 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [Gatorade](https://www.gatorade.com/products/sports-drinks)
 * [LARABAR Cashew Cookie](https://www.larabar.com/our-products/larabar/cashew-cookie)
 * [Nabisco Fig Newtons](https://en.wikipedia.org/wiki/Newtons_(cookie))
+
+## Web services and software
+* [Strava](https://www.strava.com/athletes/PLA1)
+* [Strava Android](https://play.google.com/store/apps/details?id=com.strava)
+* [Garmin Connect](https://connect.garmin.com)
+* [Garmin Connect Android](https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile)
+* [Relive](https://www.relive.cc/)
+* [Relive Android](https://play.google.com/store/apps/details?id=cc.relive.reliveapp)
+* [VeloViewer](https://veloviewer.com)
+* [Hugo static site generator](https://gohugo.io/)
+* [Sports Track Live](http://www.sportstracklive.com/)
+* [Sport Track Live Android](http://www.sportstracklive.com/help/android)
+* [Google Photos](https://photos.google.com/)
+* Pixel 3 phone
