@@ -70,7 +70,7 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [Sunlite foam handlebar grips](https://www.amazon.com/gp/product/B000AO5K42/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
 * [OTTOLOCK bike lock (low security but light)](https://ottodesignworks.com/shop/ottolock)
 * [Park Tool digital scale](https://www.parktool.com/product/digital-scale-ds-1)
-* [Bikehand floor stand](Bikehand Bike Floor Parking Rack Storage Stand Bicycle)
+* [Bikehand floor stand](https://www.amazon.com/gp/product/B00CW911SM/ref=oh_aui_search_asin_title?ie=UTF8&psc=1)
 * [Park Tool repair stand](https://www.parktool.com/product/team-issue-repair-stand-prs-25)
 
 ## On the saddle nutrition favorites
