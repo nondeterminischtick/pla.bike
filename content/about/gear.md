@@ -95,5 +95,5 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [VeloViewer](https://veloviewer.com)
 * [Hugo static site generator](https://gohugo.io/)
 * [Sports Track Live](http://www.sportstracklive.com/)
-* [Sport Track Live Android](http://www.sportstracklive.com/help/android)
+* [Sport Track Live Android](https://play.google.com/store/apps/details?id=com.sportstracklive.android.ui.activity.pro)
 * [Google Photos](https://photos.google.com/)
