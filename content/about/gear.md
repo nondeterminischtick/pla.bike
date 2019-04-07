@@ -60,7 +60,6 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 
 
 ## Maintenance
-* [Polar Bottle Insulated Water Bottle](https://polarbottle.com/product/bottles/insulated-sport-bike/solid-bottles-20oz-24oz/)
 * [Topeak Joe Blow Sport III Floor Pump](https://www.topeak.com/global/en/products/floor-pumps/1079-joeblow--sport-iii)
 * [GODESON Tire Pressure Gauge](https://www.amazon.com/gp/product/B01KHJNNK2/ref=oh_aui_search_asin_title?ie=UTF8&psc=1)
 * [Park Tool Chain Checker CC-3.2](https://www.parktool.com/product/chain-wear-indicator-cc-3-2)
@@ -79,10 +78,12 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [GU Energy Gels](https://guenergy.com/form/gel/)
 * [Nekot Peanut Butter Cookie](https://www.lance.com/nekot/)
 * [Clif Crunchy Peanut Butter Bar](https://www.clifbar.com/products/clif/clif-bar/crunchy-peanut-butter)
+* [Polar Bottle Insulated Water Bottle](https://polarbottle.com/product/bottles/insulated-sport-bike/solid-bottles-20oz-24oz/)
 * Water
 * [Gatorade](https://www.gatorade.com/products/sports-drinks)
 * [LARABAR Cashew Cookie](https://www.larabar.com/our-products/larabar/cashew-cookie)
 * [Nabisco Fig Newtons](https://en.wikipedia.org/wiki/Newtons_(cookie))
+
 
 ## Software and web services
 * [Strava](https://www.strava.com/athletes/PLA1)
