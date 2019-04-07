@@ -33,6 +33,7 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 ## Computer
 * [Garmin Edge 520](https://buy.garmin.com/en-US/US/p/623539)
 * [K-EDGE Garmin & GoPro Mount](https://k-edge.com/shop/chain-catchers/road/gopro-garmin-combo-mount/)
+* Pixel 3 phone
 
 ## Camera and accessories
 * GoPro Hero 6
@@ -83,7 +84,7 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [LARABAR Cashew Cookie](https://www.larabar.com/our-products/larabar/cashew-cookie)
 * [Nabisco Fig Newtons](https://en.wikipedia.org/wiki/Newtons_(cookie))
 
-## Web services and software
+## Software and web services
 * [Strava](https://www.strava.com/athletes/PLA1)
 * [Strava Android](https://play.google.com/store/apps/details?id=com.strava)
 * [Garmin Connect](https://connect.garmin.com)
@@ -95,4 +96,3 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [Sports Track Live](http://www.sportstracklive.com/)
 * [Sport Track Live Android](http://www.sportstracklive.com/help/android)
 * [Google Photos](https://photos.google.com/)
-* Pixel 3 phone
