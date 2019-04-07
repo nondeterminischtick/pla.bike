@@ -3,9 +3,9 @@ title =  "Gear"
 date = 2019-04-06T17:00:00-04:00
 noindex = false
 tags = ["gear"]
-featured_image = "https://lh3.googleusercontent.com/JuYrxz_dGvvGdqHW7mvEXE6U6VcSyDkL1ambrQ0ptBLMH_UDpd-R0Bgnwtu3IHMWtKBL3AHM-h3OWGczO8hMiC7wTEgTwgx3Nw5qzJow-g7kLPodvlgzo_ez6qv7vsOqm3IESiWY9qU=w2400"
+featured_image = "https://lh3.googleusercontent.com/NlBB-0S0Yp0CiqV50cACMTNtph3KekZ5zihYPpRtp-91C9k4VW7vrE_z5TPAckiLWwbKObFoi808-0pLg4uV70SoFyKLxpRHTrj02tE1r1gQtoZG-eCgYx7DS_DQhr83yEJIpjEy5P4=w2400"
 description = "Gear list"
-images = ["https://lh3.googleusercontent.com/JuYrxz_dGvvGdqHW7mvEXE6U6VcSyDkL1ambrQ0ptBLMH_UDpd-R0Bgnwtu3IHMWtKBL3AHM-h3OWGczO8hMiC7wTEgTwgx3Nw5qzJow-g7kLPodvlgzo_ez6qv7vsOqm3IESiWY9qU=w2400"]
+images = ["https://lh3.googleusercontent.com/NlBB-0S0Yp0CiqV50cACMTNtph3KekZ5zihYPpRtp-91C9k4VW7vrE_z5TPAckiLWwbKObFoi808-0pLg4uV70SoFyKLxpRHTrj02tE1r1gQtoZG-eCgYx7DS_DQhr83yEJIpjEy5P4=w2400"]
 +++
 
 Below is my gear list. Stuff I use on a regular basis. Links to product website when possible otherwise to Amazon.
@@ -69,6 +69,9 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [Park Tool chain Scrubber](https://www.parktool.com/product/cyclone-chain-scrubber-cm-5-2)
 * [Sunlite foam handlebar grips](https://www.amazon.com/gp/product/B000AO5K42/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
 * [OTTOLOCK bike lock (low security but light)](https://ottodesignworks.com/shop/ottolock)
+* [Park Tool digital scale](https://www.parktool.com/product/digital-scale-ds-1)
+* [Bikehand floor stand](Bikehand Bike Floor Parking Rack Storage Stand Bicycle)
+* [Park Tool repair stand](https://www.parktool.com/product/team-issue-repair-stand-prs-25)
 
 ## On the saddle nutrition favorites
 * Bananas
