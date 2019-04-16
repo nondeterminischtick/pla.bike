@@ -10,10 +10,40 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/</loc>
+    <lastmod>2019-04-14T13:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/</loc>
+    <lastmod>2019-04-14T13:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/</loc>
+    <lastmod>2019-04-13T13:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20190413/</loc>
     <lastmod>2019-04-13T13:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/</loc>
+    <lastmod>2019-04-13T13:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/century/</loc>
+    <lastmod>2019-04-13T13:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -24,8 +54,21 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/tags/commute/</loc>
+    <lastmod>2019-04-11T17:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20190409/</loc>
     <lastmod>2019-04-09T17:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/about/</loc>
+    <lastmod>2019-04-06T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -35,6 +78,12 @@
     <lastmod>2019-04-06T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/gear/</loc>
+    <lastmod>2019-04-06T17:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -213,6 +262,12 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/tags/maintenance/</loc>
+    <lastmod>2019-02-21T20:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20190219/</loc>
     <lastmod>2019-02-19T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -360,6 +415,12 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/tags/yearinsport/</loc>
+    <lastmod>2019-01-09T19:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20190108/</loc>
     <lastmod>2019-01-08T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -371,6 +432,12 @@
     <lastmod>2019-01-06T13:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/kom/</loc>
+    <lastmod>2019-01-05T13:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -759,6 +826,12 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/tags/sensor/</loc>
+    <lastmod>2018-09-01T11:00:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20180830/</loc>
     <lastmod>2018-08-30T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -854,6 +927,12 @@
     <lastmod>2018-07-31T23:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/night/</loc>
+    <lastmod>2018-07-31T23:00:00-04:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -1319,99 +1398,7 @@
   </url>
   
   <url>
-    <loc>https://pla.bike/tags/</loc>
-    <lastmod>2018-08-07T22:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/about/</loc>
-    <lastmod>2019-04-06T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://pla.bike/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/century/</loc>
-    <lastmod>2019-04-13T13:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/commute/</loc>
-    <lastmod>2019-04-11T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/gear/</loc>
-    <lastmod>2019-04-06T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/kom/</loc>
-    <lastmod>2019-01-05T13:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/maintenance/</loc>
-    <lastmod>2019-02-21T20:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/night/</loc>
-    <lastmod>2018-07-31T23:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/</loc>
-    <lastmod>2019-04-14T13:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/posts/</loc>
-    <lastmod>2019-04-14T13:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/sensor/</loc>
-    <lastmod>2018-09-01T11:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/</loc>
-    <lastmod>2018-08-07T22:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/yearinsport/</loc>
-    <lastmod>2019-01-09T19:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
