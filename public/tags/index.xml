@@ -6,7 +6,7 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Apr 2019 17:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 19 Apr 2019 10:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title></title>
       <link>https://pla.bike/tags/</link>
-      <pubDate>Tue, 16 Apr 2019 17:00:00 -0400</pubDate>
+      <pubDate>Fri, 19 Apr 2019 10:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>century</title>
+      <link>https://pla.bike/tags/century/</link>
+      <pubDate>Fri, 19 Apr 2019 10:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/century/</guid>
       <description></description>
     </item>
     
@@ -26,15 +35,6 @@
       <pubDate>Tue, 16 Apr 2019 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/commute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>century</title>
-      <link>https://pla.bike/tags/century/</link>
-      <pubDate>Sat, 13 Apr 2019 13:00:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/century/</guid>
       <description></description>
     </item>
     
