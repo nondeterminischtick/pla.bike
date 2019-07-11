@@ -6,10 +6,60 @@
     <description>Recent content on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Jul 2019 16:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jul 2019 16:00:00 -0400</lastBuildDate>
     
         <atom:link href="https://pla.bike/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Commute Thursday July 11, 2019</title>
+      <link>https://pla.bike/posts/20190711/</link>
+      <pubDate>Thu, 11 Jul 2019 16:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/posts/20190711/</guid>
+      <description>&lt;p&gt;Good commute to work. Ride home was tough with temperatures in the 90&amp;rsquo;s °F with persistent headwind. Still better than driving.&lt;/p&gt;
+
+&lt;p&gt;Received an email today from Strava and Relive today. Relive can no longer use the Strava API. They reportedly violated several terms of the API. Relive made some software changes recently and made it much easier to create a video with their service. In addition to the tracking data Relive started transferring the title and photos from Strave. This made creating a video really quick and easy. It was fun while it lasted. I&amp;rsquo;ve connected Relive to Garmin. It just takes a little more work to set the title and upload the photos. No biggie.&lt;/p&gt;
+
+&lt;p&gt;Below is Strava&amp;rsquo;s statement:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Many of us at Strava have enjoyed using Relive over the last few years, but because of Relive’s recent updates, unfortunately, we have decided to end this integration. The current version of Relive violates several of the terms that we ask of API partners. These terms are in place to safeguard your personal information, to ensure a level playing field for all our partners, and to protect what makes Strava unique. We’ve worked hard with Relive to try to fix this, but they have ultimately chosen not to make the changes needed to honor their agreement. So as of today, Strava will no longer send your activities to Relive for playback.&lt;/p&gt;
+
+&lt;p&gt;Rest assured, nothing’s changed about how your information is stored or the control you have over how it’s accessed by API partners. And we remain deeply committed to helping our many API partners build experiences that make your workouts and races even better.&lt;/p&gt;
+
+&lt;p&gt;As always, thanks for being a part of the Strava community,&lt;/p&gt;
+
+&lt;p&gt;The Strava Team&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Relive&amp;rsquo;s statement:&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;So, this sucks… Strava decided to no longer work with us. Read more about what happened on &lt;a href=&#34;https://relive.cc/strava&#34;&gt;https://relive.cc/strava&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a big blow to our small team of 15. We’re working around the clock to keep bringing you Relive, and hope one day we can bring Strava back on board.&lt;/p&gt;
+
+&lt;p&gt;Fortunately, you can still keep using Relive. Record directly in our app, or connect one of our many other partners. Learn more.&lt;/p&gt;
+
+&lt;p&gt;To be clear; nothing has changed about how we use the Strava API, or how Relive uses and protects your data; it remains safe with us. We believe this is your data, and you should decide how it&amp;rsquo;s used. After all, it’s your legs doing all the work!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ride on. ☮&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/7Wutbdftbdc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/2522671258/embed/22270cb79b9ad2651071b4e560f3704f596f92df&#39;&gt;&lt;/iframe&gt;
+
+&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/2524298578/embed/6d08a6f3814bc265540c958b16d158e8a4ee0ab4&#39;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34; data-card-controls=&#34;0&#34; data-card-key=&#34;f1631a41cb254ca5b035dc5747a5bd75&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.relive.cc/view/g37256023175?r=embed-site&#34;&gt;Relive &amp;lsquo;Commute AM&amp;rsquo;&lt;/a&gt;&lt;/h4&gt;&lt;/blockquote&gt;
+        &lt;script async src=&#34;https://cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34; data-card-controls=&#34;0&#34; data-card-key=&#34;f1631a41cb254ca5b035dc5747a5bd75&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.relive.cc/view/g37279598505?r=embed-site&#34;&gt;Relive &amp;lsquo;Commute PM&amp;rsquo;&lt;/a&gt;&lt;/h4&gt;&lt;/blockquote&gt;
+        &lt;script async src=&#34;https://cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Commute Tuesday July 9, 2019</title>
