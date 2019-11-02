@@ -13,8 +13,8 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 
 ## Bikes
 
-* [Giant Anyroad 1 2017 (main)](https://www.giant-bicycles.com/us/anyroad-1-2017)
-* [Giant Defy 3 2016](https://www.giant-bicycles.com/us/defy-3-2016)
+* [Giant Anyroad 1 2017 (main)](https://www.giant-bicycles.com/us/anyroad-1-2017) AKA Old Yeller
+* [Giant Defy 3 2016 (backup)](https://www.giant-bicycles.com/us/defy-3-2016)
 * [Dahon Speed Uno folding bike](https://usa.dahon.com/bikes/speed-uno-5/)
 * Unicycle
 
@@ -31,14 +31,18 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [Ascher USB Rechargeable Bike Light Set (backup lights)](https://www.amazon.com/gp/product/B01EUQ7ZQG/ref=oh_aui_search_asin_title?ie=UTF8&psc=1)
 
 ## Computer
-* [Garmin Edge 520](https://buy.garmin.com/en-US/US/p/623539)
+* ~~[Garmin Edge 520](https://buy.garmin.com/en-US/US/p/623539)~~
+* [Wahoo Elemnt Bolt](https://www.wahoofitness.com/devices/bike-computers/gps-elemnt-bolt)
 * [K-EDGE Garmin & GoPro Mount](https://k-edge.com/shop/chain-catchers/road/gopro-garmin-combo-mount/)
 * Pixel 3 phone
 
 ## Camera and accessories
-* GoPro Hero 6
+* [GoPro Hero 7](https://gopro.com/en/us/shop/cameras/hero7-black/CHDHX-701-master.html)
 * [Anker PowerCore 13000 C](https://www.anker.com/products/variant/powercore-13000-c/A1216011)
 * [Samsung 256GB Memory Card](https://www.amazon.com/gp/product/B072HRDM55/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&psc=1)
+* [Sunlite foam handlebar grips](https://www.amazon.com/gp/product/B000AO5K42/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
+* [OTTOLOCK bike lock (low security but light)](https://ottodesignworks.com/shop/ottolock)
+
 
 ## Tires and tubes
 * [Continental Gatorskins 700x32c](https://www.continental-tires.com/bicycle/tires/race-tires/gator-hardshell)
@@ -67,8 +71,6 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 * [Finish Line Wet Chain Lube](http://www.finishlineusa.com/products/chain-lubricants)
 * [Finish Line Citrus Degreaser (gallon)](http://www.finishlineusa.com/products/bicycle-degreasers/citrus-bike-chain-degreaser)
 * [Park Tool chain Scrubber](https://www.parktool.com/product/cyclone-chain-scrubber-cm-5-2)
-* [Sunlite foam handlebar grips](https://www.amazon.com/gp/product/B000AO5K42/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1)
-* [OTTOLOCK bike lock (low security but light)](https://ottodesignworks.com/shop/ottolock)
 * [Park Tool digital scale](https://www.parktool.com/product/digital-scale-ds-1)
 * [Bikehand floor stand](https://www.amazon.com/gp/product/B00CW911SM/ref=oh_aui_search_asin_title?ie=UTF8&psc=1)
 * [Park Tool repair stand](https://www.parktool.com/product/team-issue-repair-stand-prs-25)
@@ -88,8 +90,9 @@ Below is my gear list. Stuff I use on a regular basis. Links to product website 
 ## Software and web services
 * [Strava](https://www.strava.com/athletes/PLA1)
 * [Strava Android](https://play.google.com/store/apps/details?id=com.strava)
-* [Garmin Connect](https://connect.garmin.com)
-* [Garmin Connect Android](https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile)
+* ~~[Garmin Connect](https://connect.garmin.com)~~
+* ~~[Garmin Connect Android](https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile)~~
+* [Wahoo Fitness Android](https://play.google.com/store/apps/details?id=com.wahoofitness.boltcompanion)
 * [Relive](https://www.relive.cc/)
 * [Relive Android](https://play.google.com/store/apps/details?id=cc.relive.reliveapp)
 * [VeloViewer](https://veloviewer.com)
