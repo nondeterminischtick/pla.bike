@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PLA Cycling Log</title>
@@ -6,49 +6,22 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 23 Nov 2019 17:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 07 Aug 2018 22:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>century</title>
-      <link>https://pla.bike/tags/century/</link>
-      <pubDate>Sat, 23 Nov 2019 17:30:00 -0400</pubDate>
+      <title></title>
+      <link>https://pla.bike/tags/</link>
+      <pubDate>Tue, 07 Aug 2018 22:00:00 -0400</pubDate>
       
-      <guid>https://pla.bike/tags/century/</guid>
+      <guid>https://pla.bike/tags/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>commute</title>
-      <link>https://pla.bike/tags/commute/</link>
-      <pubDate>Tue, 19 Nov 2019 17:00:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/commute/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>maintenance</title>
-      <link>https://pla.bike/tags/maintenance/</link>
-      <pubDate>Thu, 24 Oct 2019 17:00:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/maintenance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ffmpeg</title>
-      <link>https://pla.bike/tags/ffmpeg/</link>
-      <pubDate>Thu, 26 Sep 2019 17:00:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/ffmpeg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>assessment</title>
+      <title>Assessment</title>
       <link>https://pla.bike/tags/assessment/</link>
       <pubDate>Sat, 08 Jun 2019 11:00:00 -0400</pubDate>
       
@@ -57,16 +30,34 @@
     </item>
     
     <item>
-      <title>goals</title>
-      <link>https://pla.bike/tags/goals/</link>
-      <pubDate>Sat, 08 Jun 2019 11:00:00 -0400</pubDate>
+      <title>Century</title>
+      <link>https://pla.bike/tags/century/</link>
+      <pubDate>Sat, 23 Nov 2019 17:30:00 -0400</pubDate>
       
-      <guid>https://pla.bike/tags/goals/</guid>
+      <guid>https://pla.bike/tags/century/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>gear</title>
+      <title>Commute</title>
+      <link>https://pla.bike/tags/commute/</link>
+      <pubDate>Tue, 19 Nov 2019 17:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/commute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ffmpeg</title>
+      <link>https://pla.bike/tags/ffmpeg/</link>
+      <pubDate>Thu, 26 Sep 2019 17:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/ffmpeg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gear</title>
       <link>https://pla.bike/tags/gear/</link>
       <pubDate>Sat, 06 Apr 2019 17:00:00 -0400</pubDate>
       
@@ -75,16 +66,16 @@
     </item>
     
     <item>
-      <title>YearInSport</title>
-      <link>https://pla.bike/tags/yearinsport/</link>
-      <pubDate>Wed, 09 Jan 2019 19:00:00 -0400</pubDate>
+      <title>Goals</title>
+      <link>https://pla.bike/tags/goals/</link>
+      <pubDate>Sat, 08 Jun 2019 11:00:00 -0400</pubDate>
       
-      <guid>https://pla.bike/tags/yearinsport/</guid>
+      <guid>https://pla.bike/tags/goals/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>KOM</title>
+      <title>Kom</title>
       <link>https://pla.bike/tags/kom/</link>
       <pubDate>Sat, 05 Jan 2019 13:00:00 -0400</pubDate>
       
@@ -93,7 +84,25 @@
     </item>
     
     <item>
-      <title>sensor</title>
+      <title>Maintenance</title>
+      <link>https://pla.bike/tags/maintenance/</link>
+      <pubDate>Thu, 24 Oct 2019 17:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/maintenance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Night</title>
+      <link>https://pla.bike/tags/night/</link>
+      <pubDate>Tue, 31 Jul 2018 23:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/night/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensor</title>
       <link>https://pla.bike/tags/sensor/</link>
       <pubDate>Sat, 01 Sep 2018 11:00:00 -0400</pubDate>
       
@@ -102,11 +111,11 @@
     </item>
     
     <item>
-      <title>night</title>
-      <link>https://pla.bike/tags/night/</link>
-      <pubDate>Tue, 31 Jul 2018 23:00:00 -0400</pubDate>
+      <title>Yearinsport</title>
+      <link>https://pla.bike/tags/yearinsport/</link>
+      <pubDate>Wed, 09 Jan 2019 19:00:00 -0400</pubDate>
       
-      <guid>https://pla.bike/tags/night/</guid>
+      <guid>https://pla.bike/tags/yearinsport/</guid>
       <description></description>
     </item>
     
