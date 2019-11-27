@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on PLA Cycling Log</title>
@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 06 Apr 2019 17:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://pla.bike/about/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://pla.bike/about/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,8 +17,126 @@
       <pubDate>Sat, 06 Apr 2019 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/about/gear/</guid>
-      <description>Below is my gear list. Stuff I use on a regular basis. Links to product website when possible otherwise to Amazon.
-Bikes  Giant Anyroad 1 2017 (main) AKA Old Yeller Giant Defy 3 2016 (backup) Dahon Speed Uno folding bike Unicycle  Bags  Topeak TopLoader Top Tube Bag Topeak Midloader Topeak Aero Wedge Topeak Backloader  Lights  Topeak Aero Combox (fork lights) Cygolite Hotshot Pro (rear light) Cycle Torch Shark 500 (head light) Ascher USB Rechargeable Bike Light Set (backup lights)  Computer  Garmin Edge 520 Wahoo Elemnt Bolt K-EDGE Garmin &amp;amp; GoPro Mount Pixel 3 phone  Camera and accessories  GoPro Hero 7 Anker PowerCore 13000 C Samsung 256GB Memory Card Sunlite foam handlebar grips OTTOLOCK bike lock (low security but light)  Tires and tubes  Continental Gatorskins 700x32c Specialized Armadillo 700x32c Continental 42mm Presta Valve Tube  Clothing high viz yellow when available  Gore jacket Gore helmet cap Gore overshoes Gore gloves Pearl Izumi Lobster Gloves Giro gloves Pearl iZUMi Elite Thermal Cycling Legwarmer Pearl iZUMi Men&amp;rsquo;s Escape Quest Cycling Shorts Owayo custom cycling jersey Clear safety glasses Tinted safety glasses  Maintenance  Topeak Joe Blow Sport III Floor Pump GODESON Tire Pressure Gauge Park Tool Chain Checker CC-3.</description>
+      <description>
+
+&lt;p&gt;Below is my gear list. Stuff I use on a regular basis. Links to product website when possible otherwise to Amazon.&lt;/p&gt;
+
+&lt;h2 id=&#34;bikes&#34;&gt;Bikes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.giant-bicycles.com/us/anyroad-1-2017&#34;&gt;Giant Anyroad 1 2017 (main)&lt;/a&gt; AKA Old Yeller&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.giant-bicycles.com/us/defy-3-2016&#34;&gt;Giant Defy 3 2016 (backup)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://usa.dahon.com/bikes/speed-uno-5/&#34;&gt;Dahon Speed Uno folding bike&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Unicycle&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;bags&#34;&gt;Bags&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.topeak.com/global/en/products/bikepacking-series/966-toploader&#34;&gt;Topeak TopLoader Top Tube Bag&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.topeak.com/global/en/products/bikepacking-series/967-midloader&#34;&gt;Topeak Midloader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.topeak.com/global/en/products/saddle-bags/130-aero-wedge-pack&#34;&gt;Topeak Aero Wedge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.topeak.com/global/en/products/bikepacking-series/969-backloader&#34;&gt;Topeak Backloader&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;lights&#34;&gt;Lights&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.topeak.com/global/en/products/safety-light-sets/779-aero-usb-combo&#34;&gt;Topeak Aero Combox (fork lights)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cygolite.com/product/hotshot-pro-150-usb/&#34;&gt;Cygolite Hotshot Pro (rear light)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://cycletorch.com/product/shark-500-usb-rechargeable-bike-light-set.aspx?page=1&#34;&gt;Cycle Torch Shark 500 (head light)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B01EUQ7ZQG/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Ascher USB Rechargeable Bike Light Set (backup lights)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;computer&#34;&gt;Computer&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;del&gt;&lt;a href=&#34;https://buy.garmin.com/en-US/US/p/623539&#34;&gt;Garmin Edge 520&lt;/a&gt;&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.wahoofitness.com/devices/bike-computers/gps-elemnt-bolt&#34;&gt;Wahoo Elemnt Bolt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://k-edge.com/shop/chain-catchers/road/gopro-garmin-combo-mount/&#34;&gt;K-EDGE Garmin &amp;amp; GoPro Mount&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Pixel 3 phone&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;camera-and-accessories&#34;&gt;Camera and accessories&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gopro.com/en/us/shop/cameras/hero7-black/CHDHX-701-master.html&#34;&gt;GoPro Hero 7&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.anker.com/products/variant/powercore-13000-c/A1216011&#34;&gt;Anker PowerCore 13000 C&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B072HRDM55/ref=ppx_yo_dt_b_asin_title_o03_s01?ie=UTF8&amp;amp;psc=1&#34;&gt;Samsung 256GB Memory Card&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B000AO5K42/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&amp;amp;psc=1&#34;&gt;Sunlite foam handlebar grips&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ottodesignworks.com/shop/ottolock&#34;&gt;OTTOLOCK bike lock (low security but light)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;tires-and-tubes&#34;&gt;Tires and tubes&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.continental-tires.com/bicycle/tires/race-tires/gator-hardshell&#34;&gt;Continental Gatorskins 700x32c&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.specialized.com/au/en/all-condition-armadillo/p/156069?color=227966-156069&#34;&gt;Specialized Armadillo 700x32c&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B01CYTV4OA/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&amp;amp;psc=1&#34;&gt;Continental 42mm Presta Valve Tube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;clothing-high-viz-yellow-when-available&#34;&gt;Clothing &lt;em&gt;high viz yellow when available&lt;/em&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B0079TPX4I/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Gore jacket&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B006URAVK6/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Gore helmet cap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B006URAFV6/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Gore overshoes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B006URASNQ/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Gore gloves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B06WLNT9MF/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Pearl Izumi Lobster Gloves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B00NB5UZPG/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Giro gloves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B01MY4M2E9/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Pearl iZUMi Elite Thermal Cycling Legwarmer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B01H7BQXNC/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Pearl iZUMi Men&amp;rsquo;s Escape Quest Cycling Shorts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.owayo.com/&#34;&gt;Owayo custom cycling jersey&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B000NP5D3G/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&amp;amp;psc=1&#34;&gt;Clear safety glasses&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B002RLYOZ2/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&amp;amp;psc=1&#34;&gt;Tinted safety glasses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;maintenance&#34;&gt;Maintenance&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.topeak.com/global/en/products/floor-pumps/1079-joeblow--sport-iii&#34;&gt;Topeak Joe Blow Sport III Floor Pump&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B01KHJNNK2/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;GODESON Tire Pressure Gauge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.parktool.com/product/chain-wear-indicator-cc-3-2&#34;&gt;Park Tool Chain Checker CC-3.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.finishlineusa.com/products/chain-lubricants&#34;&gt;Finish Line DRY Chain Lube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.finishlineusa.com/products/chain-lubricants&#34;&gt;Finish Line Wet Chain Lube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.finishlineusa.com/products/bicycle-degreasers/citrus-bike-chain-degreaser&#34;&gt;Finish Line Citrus Degreaser (gallon)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.parktool.com/product/cyclone-chain-scrubber-cm-5-2&#34;&gt;Park Tool chain Scrubber&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.parktool.com/product/digital-scale-ds-1&#34;&gt;Park Tool digital scale&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.amazon.com/gp/product/B00CW911SM/ref=oh_aui_search_asin_title?ie=UTF8&amp;amp;psc=1&#34;&gt;Bikehand floor stand&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.parktool.com/product/team-issue-repair-stand-prs-25&#34;&gt;Park Tool repair stand&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;on-the-saddle-nutrition-favorites&#34;&gt;On the saddle nutrition favorites&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bananas&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://guenergy.com/form/gel/&#34;&gt;GU Energy Gels&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.lance.com/nekot/&#34;&gt;Nekot Peanut Butter Cookie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.clifbar.com/products/clif/clif-bar/crunchy-peanut-butter&#34;&gt;Clif Crunchy Peanut Butter Bar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://polarbottle.com/product/bottles/insulated-sport-bike/solid-bottles-20oz-24oz/&#34;&gt;Polar Bottle Insulated Water Bottle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Water&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.gatorade.com/products/sports-drinks&#34;&gt;Gatorade&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.larabar.com/our-products/larabar/cashew-cookie&#34;&gt;LARABAR Cashew Cookie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Newtons_(cookie)&#34;&gt;Nabisco Fig Newtons&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;software-and-web-services&#34;&gt;Software and web services&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.strava.com/athletes/PLA1&#34;&gt;Strava&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.strava&#34;&gt;Strava Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;a href=&#34;https://connect.garmin.com&#34;&gt;Garmin Connect&lt;/a&gt;&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;del&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.garmin.android.apps.connectmobile&#34;&gt;Garmin Connect Android&lt;/a&gt;&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.wahoofitness.boltcompanion&#34;&gt;Wahoo Fitness Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.relive.cc/&#34;&gt;Relive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=cc.relive.reliveapp&#34;&gt;Relive Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://veloviewer.com&#34;&gt;VeloViewer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo static site generator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.sportstracklive.com/&#34;&gt;Sports Track Live&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.sportstracklive.android.ui.activity.pro&#34;&gt;Sport Track Live Android&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://photos.google.com/&#34;&gt;Google Photos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
