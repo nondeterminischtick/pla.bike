@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>sensor on PLA Cycling Log</title>
+    <title>Sensor on PLA Cycling Log</title>
     <link>https://pla.bike/tags/sensor/</link>
-    <description>Recent content in sensor on PLA Cycling Log</description>
+    <description>Recent content in Sensor on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 01 Sep 2018 11:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://pla.bike/tags/sensor/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://pla.bike/tags/sensor/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,9 +17,23 @@
       <pubDate>Sat, 01 Sep 2018 11:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/posts/20180901/</guid>
-      <description>Woke up around 3 AM and was on the road at 4:40 AM. From Summerville I rode through Moncks Corner, Bonneau, St Stephen, Pineville, Cross, Holly Hill, and Harleyville. It was a little chilly this morning until the sun came up. Not looking forward to summer ending.
-I think I fueled too much too quickly. My stomach was a little sore.
-At the end of my ride I rode by the Summerville Farmer&#39;s Market for some Cookie Chick cookies.</description>
+      <description>&lt;p&gt;Woke up around 3 AM and was on the road at 4:40 AM. From Summerville I rode through Moncks Corner, Bonneau, St Stephen, Pineville, Cross, Holly Hill, and Harleyville. It was a little chilly this morning until the sun came up. Not looking forward to summer ending.&lt;/p&gt;
+
+&lt;p&gt;I think I fueled too much too quickly. My stomach was a little sore.&lt;/p&gt;
+
+&lt;p&gt;At the end of my ride I rode by the Summerville Farmer&amp;rsquo;s Market for some Cookie Chick cookies. Another grand day in the saddle.&lt;/p&gt;
+
+&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/1812137216/embed/23aa5194b39539920725553eeb5aefae501ddee3&#39;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://photos.app.goo.gl/KULL7hL36WcyXEN1A&#34;&gt;Photo album&lt;img src=&#34;https://lh3.googleusercontent.com/bsXsLRiHVYg9i3tmbDxm7knBlPYc9SxGlRfmR6rQtqBoZH98xDqGiwy1bq6we_i4MhemDwNy8W2sbP5o3MWhyHyRY8uxjCfzcWex9ZbTkNRo68VYcalXFW1RJOzFHwVY70ANDlWW_II=w2400&#34; alt=&#34;Photo album&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;blockquote class=&#34;embedly-card&#34; data-card-controls=&#34;0&#34; data-card-key=&#34;f1631a41cb254ca5b035dc5747a5bd75&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://www.relive.cc/view/1812137216?r=embed-site&#34;&gt;Relive &amp;lsquo;Tri-County Century&amp;rsquo;&lt;/a&gt;&lt;/h4&gt;&lt;/blockquote&gt;
+        &lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;The Garmin Edge 520 GPS bike computer reported that the speed sensor battery was low. This afternoon I replaced the battery in the speed sensor and cadence sensor.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://lh3.googleusercontent.com/J9MKekWFMSwGk1COi707bFjnDTXYVPlQ-evQwXHt5bjWY_hpqsGh1x6vGUGVoT_rT3YaIQDjGLX_wtTjhujflp5pWaF_omnAUX3Qxy5_A5yFyDsTrhiooMwbcuAbQq8nFV3NxNXJbOA=w2400&#34;&gt;&lt;img src=&#34;https://lh3.googleusercontent.com/J9MKekWFMSwGk1COi707bFjnDTXYVPlQ-evQwXHt5bjWY_hpqsGh1x6vGUGVoT_rT3YaIQDjGLX_wtTjhujflp5pWaF_omnAUX3Qxy5_A5yFyDsTrhiooMwbcuAbQq8nFV3NxNXJbOA=w2400&#34; alt=&#34;Garmin sensors&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
