@@ -24,7 +24,7 @@ The mirror on this one was too small for my liking. Wasn't thrilled with the Vel
 <a href='https://lh3.googleusercontent.com/6yxAMD6DBLmaCIU7VC-s7jb_WotfeinYi57-yzFiFIHsiTkiFXuqRduK82S5wt4HTVSHoBD9gHdtWnbIzTsJD5F_EOpBve24na76rAPZC1clQexcP8qyEPyXPA6K_2yXFO36IuwcXJg=w2400'><img src='https://lh3.googleusercontent.com/6yxAMD6DBLmaCIU7VC-s7jb_WotfeinYi57-yzFiFIHsiTkiFXuqRduK82S5wt4HTVSHoBD9gHdtWnbIzTsJD5F_EOpBve24na76rAPZC1clQexcP8qyEPyXPA6K_2yXFO36IuwcXJg=w2400'></a>
 
 
-This one attaches to your eyeglasses. Seemed to close to my eye, blocking my forward vision. There are time I don't wear eyeglasses. Like when they are covered in sweat and dirt.
+This one attaches to your eyeglasses. Seemed to close too my eye, blocking my forward vision. There are time I don't wear eyeglasses. Like when they are covered in sweat and dirt.
 <a href='https://lh3.googleusercontent.com/nBDocN3v1wioykQMGQbbM0ifzumObnYs9QKs50nL7fKklBrXs8_10url1qqT1giP4GZ6bjlY6JrZuqsuJti2C0UNVrZIZVCNS8nueZdgf_4oPjZ-H_8lqa2UEDS5jHoTI3Un1EmiFgc=w2400'><img src='https://lh3.googleusercontent.com/nBDocN3v1wioykQMGQbbM0ifzumObnYs9QKs50nL7fKklBrXs8_10url1qqT1giP4GZ6bjlY6JrZuqsuJti2C0UNVrZIZVCNS8nueZdgf_4oPjZ-H_8lqa2UEDS5jHoTI3Un1EmiFgc=w2400'></a>
 
 This is the one I've used for several years. It attaches to your helmet with cable zip ties. The mirror is large enough for a good view of traffic. It takes a while to align so that it doesn't block your forward view.
