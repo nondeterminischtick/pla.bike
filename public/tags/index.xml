@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 Aug 2018 22:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -41,7 +41,7 @@
     <item>
       <title>Commute</title>
       <link>https://pla.bike/tags/commute/</link>
-      <pubDate>Tue, 10 Dec 2019 17:00:00 -0400</pubDate>
+      <pubDate>Thu, 12 Dec 2019 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/commute/</guid>
       <description></description>
