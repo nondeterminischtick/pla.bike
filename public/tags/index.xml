@@ -6,7 +6,7 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Dec 2019 17:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 17:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,18 @@
     <item>
       <title>commute</title>
       <link>https://pla.bike/tags/commute/</link>
-      <pubDate>Tue, 17 Dec 2019 17:00:00 -0400</pubDate>
+      <pubDate>Fri, 20 Dec 2019 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/commute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goal</title>
+      <link>https://pla.bike/tags/goal/</link>
+      <pubDate>Fri, 20 Dec 2019 17:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/goal/</guid>
       <description></description>
     </item>
     
