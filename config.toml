@@ -7,6 +7,8 @@ DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
 
+[markup.goldmark.renderer]
+  unsafe= true
 
 [sitemap]
   changefreq = "monthly"
