@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PLA Cycling Log</title>
@@ -6,7 +6,7 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 31 Dec 2019 17:00:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2020 17:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>commute</title>
       <link>https://pla.bike/tags/commute/</link>
-      <pubDate>Tue, 31 Dec 2019 17:00:00 -0400</pubDate>
+      <pubDate>Fri, 03 Jan 2020 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/commute/</guid>
       <description></description>
