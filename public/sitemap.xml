@@ -3,6 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pla.bike/tags/century/</loc>
+    <lastmod>2020-01-10T21:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200110/</loc>
+    <lastmod>2020-01-10T21:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/</loc>
+    <lastmod>2020-01-10T21:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/</loc>
+    <lastmod>2020-01-10T21:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/</loc>
+    <lastmod>2020-01-10T21:30:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/tags/commute/</loc>
     <lastmod>2020-01-03T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -11,27 +46,6 @@
   
   <url>
     <loc>https://pla.bike/posts/20200103/</loc>
-    <lastmod>2020-01-03T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/</loc>
-    <lastmod>2020-01-03T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/posts/</loc>
-    <lastmod>2020-01-03T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/</loc>
     <lastmod>2020-01-03T17:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -82,13 +96,6 @@
   <url>
     <loc>https://pla.bike/posts/201912170/</loc>
     <lastmod>2019-12-17T17:00:00-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/century/</loc>
-    <lastmod>2019-12-15T17:30:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
