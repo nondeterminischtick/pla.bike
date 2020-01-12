@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>goal on PLA Cycling Log</title>
@@ -8,7 +7,7 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 20 Dec 2019 17:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://pla.bike/tags/goal/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://pla.bike/tags/goal/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -17,12 +16,14 @@
       <pubDate>Fri, 20 Dec 2019 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/posts/20191220/</guid>
-      <description>Today I met my goal of 10,000 miles riding my bicycles in 2019. Feels good. 585 hours of good old fashioned fun.
-Not sure what my goal will be for 2020. Probably won&#39;t be distance related.
-Commute this morning was 21 miles in the twenties. The lowest temperature was 25℉. Chilly for this southern boy.
-Ride on. ☮
-
-  </description>
+      <description>&lt;p&gt;Today I met my goal of 10,000 miles riding my bicycles in 2019. Feels good. 585 hours of good old fashioned fun.&lt;/p&gt;
+&lt;p&gt;Not sure what my goal will be for 2020. Probably won&#39;t be distance related.&lt;/p&gt;
+&lt;p&gt;Commute this morning was 21 miles in the twenties. The lowest temperature was 25℉. Chilly for this southern boy.&lt;/p&gt;
+&lt;p&gt;Ride on. ☮&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#39;https://lh3.googleusercontent.com/lX9Cc3bcLwR4eXK442lPdtfQZlSEtrSeAaEw3RgOkfGFHPh_inl-qA7EB0TCIaTTiSsGaMMGJ2QKPDx-Q2WkF63dl1XY4XSZBaP9aRlK1pMbtJcI1htJbbYjjiJ4pHcDR0Vkngdvyt8=w2400&#39;&gt;&lt;img src=&#39;https://lh3.googleusercontent.com/lX9Cc3bcLwR4eXK442lPdtfQZlSEtrSeAaEw3RgOkfGFHPh_inl-qA7EB0TCIaTTiSsGaMMGJ2QKPDx-Q2WkF63dl1XY4XSZBaP9aRlK1pMbtJcI1htJbbYjjiJ4pHcDR0Vkngdvyt8=w2400&#39;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/2944608651/embed/dc25fc417964573c2adfd0f5268bc88af9615217&#39;&gt;&lt;/iframe&gt;
+&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/2945644870/embed/1cef3776f6175cc0879dc5c1a45e6a26f1439271&#39;&gt;&lt;/iframe&gt;
+</description>
     </item>
     
   </channel>
