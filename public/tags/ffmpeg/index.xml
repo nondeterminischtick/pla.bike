@@ -1,13 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ffmpeg on PLA Cycling Log</title>
+    <title>Ffmpeg on PLA Cycling Log</title>
     <link>https://pla.bike/tags/ffmpeg/</link>
-    <description>Recent content in ffmpeg on PLA Cycling Log</description>
+    <description>Recent content in Ffmpeg on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 26 Sep 2019 17:00:00 -0400</lastBuildDate>
     
-        <atom:link href="https://pla.bike/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pla.bike/tags/ffmpeg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -16,15 +17,8 @@
       <pubDate>Thu, 26 Sep 2019 17:00:00 -0400</pubDate>
       
       <guid>https://pla.bike/posts/20190926/</guid>
-      <description>&lt;p&gt;Looking forward to a paved road from Cane Bay to Black Tom Rd. As of this post it is still a construction zone. Probably the toughest part of this route.&lt;/p&gt;
-&lt;p&gt;On the PM commute I had a water truck tailing me into a round-a-bout and I took the first out instead of the second. Before I realized what I had done I was half way to a dead end. Ended up in the woods again. Oh well. A little adventure is welcome on the ride home.&lt;/p&gt;
-&lt;p&gt;Ride on. ☮&lt;/p&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/NSzICBzuaIs&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/L8x64tB6JRc&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/2740775886/embed/52459256e412e0c53dc315c74d73431a507d6947&#39;&gt;&lt;/iframe&gt;
-&lt;iframe height=&#39;405&#39; width=&#39;590&#39; frameborder=&#39;0&#39; allowtransparency=&#39;true&#39; scrolling=&#39;no&#39; src=&#39;https://www.strava.com/activities/2742418934/embed/53230f888925682a6a14f829dcb1d86cdf15f299&#39;&gt;&lt;/iframe&gt;
-&lt;p&gt;Command to flip a GoPro video with ffmpeg: &lt;code&gt;ffmpeg -y -ss 0:15:38 -t 20 -i 2019_09_26_16_54_32.MP4 -metadata:s:v rotate=&amp;quot;180&amp;quot; -codec copy  woods.mp4&lt;/code&gt;&lt;/p&gt;
-</description>
+      <description>Looking forward to a paved road from Cane Bay to Black Tom Rd. As of this post it is still a construction zone. Probably the toughest part of this route.
+On the PM commute I had a water truck tailing me into a round-a-bout and I took the first out instead of the second. Before I realized what I had done I was half way to a dead end. Ended up in the woods again.</description>
     </item>
     
   </channel>
