@@ -3,21 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pla.bike/posts/20200418/</loc>
-    <lastmod>2020-04-18T16:00:00-04:00</lastmod>
+    <loc>https://pla.bike/posts/20200419/</loc>
+    <lastmod>2020-04-19T13:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2020-04-18T16:00:00-04:00</lastmod>
+    <lastmod>2020-04-19T13:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
+    <lastmod>2020-04-19T13:00:00-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200418/</loc>
     <lastmod>2020-04-18T16:00:00-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
