@@ -21,4 +21,4 @@ _Patrick L Archibald (PLA)_
 * Added `<meta name="Description" content="{{ .Site.Params.description }}">` to `../projects/pla.bike/themes/gohugo-theme-ananke/layouts/_default/baseof.html`.
 
 
-[Gear List](/about/gear/)
+<a href='/about/gear/'>Gear list</a>
