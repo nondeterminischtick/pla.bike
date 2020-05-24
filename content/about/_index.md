@@ -15,4 +15,7 @@ _Patrick L Archibald (PLA)_
 <p style="font-size:3em">&nbsp;</p>
 
 
-This blog was created with [Hugo](https://gohugo.io/) static site builder. I use this handy web site  [https://ctrlq.org/google/photos/](https://ctrlq.org/google/photos/) to grab the direct URL for Google Photos. I use [Atom](https://atom.io/) text editor to edit my files.
+* This blog was created with [Hugo](https://gohugo.io/) static site builder.
+* Using this web site  [https://gpembed.com/](https://gpembed.com/) to grab the direct URL for Google Photos.
+* Using [Atom](https://atom.io/) text editor to edit my files.
+* Added `<meta name="Description" content="{{ .Site.Params.description }}">` to `../projects/pla.bike/themes/gohugo-theme-ananke/layouts/_default/baseof.html`.
