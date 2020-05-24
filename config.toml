@@ -1,6 +1,6 @@
 baseURL = "https://pla.bike/"
 languageCode = "en-us"
-title = "PLA Cycling Log"
+title = "PLA Cycling Log - PLA is Patrick L Archibald"
 theme = "gohugo-theme-ananke"
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
@@ -17,7 +17,7 @@ Paginate = 10
 
 [params]
   favicon = "bike.png"
-  description = "PLA's cycling log."
+  description = "PLA's cycling log. PLA is Patrick L Archibald"
   twitter = "https://twitter.com/PLA1"
   youtube = "https://www.youtube.com/channel/UC5pKVW_GoO_5lHfxPIsCfFA"
   github = "https://github.com/pla1"

@@ -2,6 +2,7 @@
 #
 # Build and deploy Hugo static site generator files in the public directory.
 #
+env HUGO_ENV="production"
 rm -rf public
 hugo
 git pull
