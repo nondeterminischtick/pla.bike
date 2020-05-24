@@ -6,6 +6,7 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
+Description = "Patrick L Archibald's cycling log."
 
 [markup.goldmark.renderer]
   unsafe= true
