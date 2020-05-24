@@ -6,9 +6,9 @@ featured_image: 'https://lh3.googleusercontent.com/vzzm6I33XSg_yh9A64mHEr_s-UOCw
 
 <iframe src="https://duckduckgo.com/search.html?site=pla.bike&prefill=Search pla.bike" style="overflow:hidden;margin:0;padding:0;width:408px;height:40px;" frameborder="0"></iframe>
 
-I love riding my bicycle. I commute to work sometimes, ride my bike to lunch, dinner, and take longer adventure rides on the weekend. https://pla.bike is where I log my cycling activities. Get out of your cars people!
+I love riding my bicycle. I commute to work sometimes, ride my bike to lunch, dinner, and take longer adventure rides on the weekend. https://pla.bike is where I log my cycling activities.
 
-[Gear List](/about/gear/)
+
 
 _Patrick L Archibald (PLA)_
 
@@ -19,3 +19,6 @@ _Patrick L Archibald (PLA)_
 * Using this web site  [https://gpembed.com/](https://gpembed.com/) to grab the direct URL for Google Photos.
 * Using [Atom](https://atom.io/) text editor to edit my files.
 * Added `<meta name="Description" content="{{ .Site.Params.description }}">` to `../projects/pla.bike/themes/gohugo-theme-ananke/layouts/_default/baseof.html`.
+
+
+[Gear List](/about/gear/)
