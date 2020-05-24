@@ -6,13 +6,12 @@ MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 10
-Description = "Patrick L Archibald's cycling log."
 
 [markup.goldmark.renderer]
   unsafe= true
 
 [sitemap]
-  changefreq = "monthly"
+  changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
 
