@@ -3,15 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pla.bike/tags/commute/</loc>
+    <lastmod>2020-06-02T17:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200602/</loc>
+    <lastmod>2020-06-02T17:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2020-05-31T18:30:00-04:00</lastmod>
+    <lastmod>2020-06-02T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2020-05-31T18:30:00-04:00</lastmod>
+    <lastmod>2020-06-02T17:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/</loc>
+    <lastmod>2020-06-02T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -33,20 +54,6 @@
   <url>
     <loc>https://pla.bike/posts/20200530/</loc>
     <lastmod>2020-05-30T15:00:00-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/</loc>
-    <lastmod>2020-05-30T15:00:00-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/commute/</loc>
-    <lastmod>2020-05-28T18:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
