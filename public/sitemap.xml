@@ -4,34 +4,41 @@
   
   <url>
     <loc>https://pla.bike/tags/century/</loc>
-    <lastmod>2020-06-21T21:00:00-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/posts/20200621/</loc>
-    <lastmod>2020-06-21T21:00:00-04:00</lastmod>
+    <lastmod>2020-06-27T11:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2020-06-21T21:00:00-04:00</lastmod>
+    <lastmod>2020-06-27T11:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2020-06-21T21:00:00-04:00</lastmod>
+    <lastmod>2020-06-27T11:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200627/</loc>
+    <lastmod>2020-06-27T11:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/tags/</loc>
+    <lastmod>2020-06-27T11:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200621/</loc>
     <lastmod>2020-06-21T21:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
