@@ -4,34 +4,41 @@
   
   <url>
     <loc>https://pla.bike/tags/commute/</loc>
-    <lastmod>2020-06-29T18:30:00-04:00</lastmod>
+    <lastmod>2020-07-01T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pla.bike/posts/20200629/</loc>
-    <lastmod>2020-06-29T18:30:00-04:00</lastmod>
+    <loc>https://pla.bike/posts/20200701/</loc>
+    <lastmod>2020-07-01T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2020-06-29T18:30:00-04:00</lastmod>
+    <lastmod>2020-07-01T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2020-06-29T18:30:00-04:00</lastmod>
+    <lastmod>2020-07-01T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/tags/</loc>
+    <lastmod>2020-07-01T18:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200629/</loc>
     <lastmod>2020-06-29T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
