@@ -3,43 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://pla.bike/posts/20200920/</loc>
-    <lastmod>2020-09-20T18:00:00-04:00</lastmod>
+    <loc>https://pla.bike/posts/20200926/</loc>
+    <lastmod>2020-09-26T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/tags/century/</loc>
-    <lastmod>2020-09-20T18:00:00-04:00</lastmod>
+    <lastmod>2020-09-26T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2020-09-20T18:00:00-04:00</lastmod>
+    <lastmod>2020-09-26T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2020-09-20T18:00:00-04:00</lastmod>
+    <lastmod>2020-09-26T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/tags/</loc>
-    <lastmod>2020-09-20T18:00:00-04:00</lastmod>
+    <lastmod>2020-09-26T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/tags/commute/</loc>
-    <lastmod>2020-09-18T18:30:00-04:00</lastmod>
+    <lastmod>2020-09-25T18:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200925/</loc>
+    <lastmod>2020-09-25T18:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200922/</loc>
+    <lastmod>2020-09-22T18:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20200920/</loc>
+    <lastmod>2020-09-20T18:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
