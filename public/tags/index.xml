@@ -6,24 +6,15 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 11 Oct 2020 10:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 15:30:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>injury</title>
-      <link>https://pla.bike/tags/injury/</link>
-      <pubDate>Sun, 11 Oct 2020 10:30:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/injury/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>century</title>
       <link>https://pla.bike/tags/century/</link>
-      <pubDate>Sat, 10 Oct 2020 15:30:00 -0400</pubDate>
+      <pubDate>Sat, 17 Oct 2020 15:30:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/century/</guid>
       <description></description>
@@ -32,9 +23,18 @@
     <item>
       <title>commute</title>
       <link>https://pla.bike/tags/commute/</link>
-      <pubDate>Thu, 01 Oct 2020 18:30:00 -0400</pubDate>
+      <pubDate>Thu, 15 Oct 2020 18:30:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/commute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>injury</title>
+      <link>https://pla.bike/tags/injury/</link>
+      <pubDate>Sun, 11 Oct 2020 10:30:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/injury/</guid>
       <description></description>
     </item>
     
