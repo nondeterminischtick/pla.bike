@@ -4,34 +4,48 @@
   
   <url>
     <loc>https://pla.bike/tags/commute/</loc>
-    <lastmod>2020-11-04T18:30:00-04:00</lastmod>
+    <lastmod>2020-11-05T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://pla.bike/posts/20201104/</loc>
-    <lastmod>2020-11-04T18:30:00-04:00</lastmod>
+    <loc>https://pla.bike/posts/20201105/</loc>
+    <lastmod>2020-11-05T18:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/tags/maintenance/</loc>
+    <lastmod>2020-11-05T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/</loc>
-    <lastmod>2020-11-04T18:30:00-04:00</lastmod>
+    <lastmod>2020-11-05T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/posts/</loc>
-    <lastmod>2020-11-04T18:30:00-04:00</lastmod>
+    <lastmod>2020-11-05T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://pla.bike/tags/</loc>
+    <lastmod>2020-11-05T18:30:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://pla.bike/posts/20201104/</loc>
     <lastmod>2020-11-04T18:30:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -1243,13 +1257,6 @@
   
   <url>
     <loc>https://pla.bike/posts/20191024/</loc>
-    <lastmod>2019-10-24T17:00:00-04:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://pla.bike/tags/maintenance/</loc>
     <lastmod>2019-10-24T17:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
