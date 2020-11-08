@@ -66,6 +66,13 @@
   </url>
   
   <url>
+    <loc>https://pla.bike/posts/20201107/</loc>
+    <lastmod>2020-10-31T16:00:00-04:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://pla.bike/posts/20201031/</loc>
     <lastmod>2020-10-31T16:00:00-04:00</lastmod>
     <changefreq>daily</changefreq>
