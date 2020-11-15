@@ -26,3 +26,16 @@ Paginate = 10
   featured_image = "https://lh3.googleusercontent.com/jmag-Fg8sGWH7H876kOriI4my2GmkGYYyujXi90m4GcqoVNHWzHilx-HJ64haZ9EjeTgG9wVeEHaaUyHyDefookBsoRu4gkcNB2dekHIGD7hGO69y2HK7ZTRuVltW1FRzoJD8qnuN3o=w2400"
   recent_posts_number = 5
   env = "production"
+
+[related]
+  includeNewer = false
+  threshold = 100
+  toLower = false
+
+  [[related.indices]]
+    name = "keywords"
+    weight = 100
+
+  [[related.indices]]
+    name = "date"
+    weight = 10
