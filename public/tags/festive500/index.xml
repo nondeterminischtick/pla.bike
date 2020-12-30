@@ -1,15 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>RaphaFestive500 on PLA Cycling Log</title>
-    <link>https://pla.bike/tags/raphafestive500/</link>
-    <description>Recent content in RaphaFestive500 on PLA Cycling Log</description>
+    <title>Festive500 on PLA Cycling Log</title>
+    <link>https://pla.bike/tags/festive500/</link>
+    <description>Recent content in Festive500 on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Dec 2020 16:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 19:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://pla.bike/tags/raphafestive500/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pla.bike/tags/festive500/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>✔ Festive 500</title>
+      <link>https://pla.bike/posts/20201229/</link>
+      <pubDate>Tue, 29 Dec 2020 19:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/posts/20201229/</guid>
+      <description>Completed the Rapha Festive 500 on the commute home. The challenge is to ride 500 kilometers between Christmas Eve and New Year’s Eve. Ended up with 509 km in 4 rides. Good times.
+Ride on. ☮
+
+ </description>
+    </item>
     
     <item>
       <title>Charleston Century 💯</title>

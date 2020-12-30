@@ -6,10 +6,28 @@
     <description>Recent content in Tags on PLA Cycling Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Dec 2020 16:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Tue, 29 Dec 2020 19:00:00 -0400</lastBuildDate>
     
 	<atom:link href="https://pla.bike/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>commute</title>
+      <link>https://pla.bike/tags/commute/</link>
+      <pubDate>Tue, 29 Dec 2020 19:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/commute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Festive500</title>
+      <link>https://pla.bike/tags/festive500/</link>
+      <pubDate>Tue, 29 Dec 2020 19:00:00 -0400</pubDate>
+      
+      <guid>https://pla.bike/tags/festive500/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>century</title>
@@ -17,24 +35,6 @@
       <pubDate>Sun, 27 Dec 2020 16:30:00 -0400</pubDate>
       
       <guid>https://pla.bike/tags/century/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RaphaFestive500</title>
-      <link>https://pla.bike/tags/raphafestive500/</link>
-      <pubDate>Sun, 27 Dec 2020 16:30:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/raphafestive500/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>commute</title>
-      <link>https://pla.bike/tags/commute/</link>
-      <pubDate>Tue, 22 Dec 2020 18:30:00 -0400</pubDate>
-      
-      <guid>https://pla.bike/tags/commute/</guid>
       <description></description>
     </item>
     
